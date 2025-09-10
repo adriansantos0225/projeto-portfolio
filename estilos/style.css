@@ -57,3 +57,12 @@ nav#menu a:hover {
   background-color: var(--destaque-inverso);
   color: var(--destaque);
 }
+
+main {
+
+}
+
+section#ficha {
+  background-color: var(--fundo-card);
+  padding: px
+}
